@@ -18,7 +18,7 @@ Student at BYU-Idaho studying computer science
 `September 2019 - July 2022`
 __Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Computer Science
+- Major: Computer Science
 - 3.97 GPA
 
 `Expected 2022`
