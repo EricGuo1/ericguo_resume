@@ -1,89 +1,74 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Eric's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Eric Junxiao Guo
+Student at BYU-Idaho studying computer science
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`September 2019 - July 2022`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Full academic scholarship with 4.0 GPA
+- Computer Science
+- 3.97 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+`Expected 2022`
 
 
 ## Related Experience
 
-### Internships
+### Software Project Manager
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`December 2020 - Current`
+__Allucent__ Rexburg, ID
+`Internship`
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Lead a team of 6 people to develop construction management software for a local start up company
 
-### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Quality Assurance Engineer
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`January 2020 - April 2020`
+__Church of Jesus Chrsit of Latter-Day Saints__ Riverton, UT
+`Internship`
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Using C# language to automate web crawling process to ensure the website is working as expected after the weekly update
+- Saved the Quality Assurance Engineer 80% of the time inspecting pages manually
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
+### iOS Developer Intern
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`January 2020 - April 2020`
+__Kingdee International Software Group__ Guangdong, China
+`Internship`
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Help the company build an iOS app displaying their financial and accounting platform
+- Design and implement the functionality and the user interface for the application using Swift and Objective C
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`September 2020 - Current`
+__Economics Teaching Assistant__, BYU-Idaho
 
+- Help the instructor with assignment grading
 
-`2023-2025`
-__Service Missionary__, South Africa
+`June 2020 - September 2020`
+__Accounting Teaching Assistant__, BYU-Idaho
 
+- Help the instructor develop the course and provide feedback
+- Develop instructions for students to improve their learning of Quickbooks
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: December 2020 -->
