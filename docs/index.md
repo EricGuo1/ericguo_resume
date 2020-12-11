@@ -6,8 +6,8 @@ title: Eric's Resume
 Student at BYU-Idaho studying computer science
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="guoeric2000@gmail.com">guoeric2000@gmail.com</a>
+| <a href="https://www.linkedin.com/in/junxiao-eric-guo/">Linkedin</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
